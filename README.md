@@ -2,9 +2,9 @@
             Rodrigo de Sousa Barbosa
 
 ## Conecte-se comigo 
-* **[Linkedin](https://www.linkedin.com/in/rodrigo-sousa-barbosa-4702872b8/)** 
-* **[Instagram](hhttps://www.instagram.com/rodrigo_sousa644/?next=%2F)**
-* **[DIO.me](hhttps://www.instagram.com/rodrigo_sousa644/?next=%2F)**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/))
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_sousa644/)
+
 
 ## Experiencias profissionais
 * Assistente administrativo Lauto cargo ltda (1 ano)
